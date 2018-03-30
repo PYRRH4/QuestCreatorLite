@@ -1,0 +1,6 @@
+COPYRIGHT 2015-2017 GUILLAUME 'PYRRH4' VANDENNEUCKER, ALL RIGHTS RESERVED.
+By using this software, you agree to the following.
+
+All rights reserved. No part of this publication may be modified, reproduced, distributed, or transmitted in any form or by any means (electronic or mechanical methods) without the prior written permission of the publisher. For permission requests, write to the publisher at contact@pyrrh4.be and only at that email.
+
+The above copyright notice and this permission notice is applicable for all copies or portions of the software.
